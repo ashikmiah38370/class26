@@ -1,0 +1,14 @@
+.new span{
+    position: relative;
+    
+}
+.new span::before{
+    content: "";
+    top: 90%;
+    left: 0;
+    background: #3498db;
+    height: 2px;
+    width: 50%;
+    position: absolute;
+    margin-top: 10px;
+}
