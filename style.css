@@ -12,3 +12,130 @@
     position: absolute;
     margin-top: 10px;
 }
+.new h4{
+    color:#3498db;
+}
+.new2{
+    margin-top: 30px;
+}
+.new3{
+    margin-top: 30px;
+}
+.new4{
+    margin-top: 30px;
+}
+.up{
+    margin-top: 30px;
+}
+.up1{
+    margin-top: 30px;
+}
+.up2{
+    margin-top: 30px;
+}
+.menu3{
+    text-align: center;
+    margin-top: 100px;
+}
+.menu3 h4{
+    color: #3498db;
+}
+.menu3 span{
+    border-bottom: 2px solid #3498db ;
+}
+.menu4{
+    margin-top: 40px;
+}
+.pic1{
+   background: url(" https://img.hotimg.com/blog-grid1d1379db76471228d.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 200px;
+   width: 300px;
+   
+}
+
+.pic2{
+    background: url(https://img.hotimg.com/blog-grid29bb15cd199026853.jpeg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+}
+.pic3{
+    background: url(https://img.hotimg.com/blog-grid3d9d23976fdae4067.jpeg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+}
+.pic1 h4{
+    text-align: center;
+top: 130px;
+    position: relative;
+    display: inline-block;
+    background: #3498db;
+    position: relative;
+    padding: 10px;
+    border-radius: 10px;
+    left: 120px;
+    
+}
+
+.pic2 h4{
+    text-align: center;
+    top: 130px;
+        position: relative;
+        display: inline-block;
+        background: #3498db;
+        position: relative;
+        padding: 10px;
+        border-radius: 10px;
+        left: 120px;
+
+}
+.pic3 h4{
+    text-align: center;
+top: 130px;
+    position: relative;
+    display: inline-block;
+    background: #3498db;
+    position: relative;
+    padding: 10px;
+    border-radius: 10px;
+    left: 120px;
+}
+.menu6{
+    background: #081828;
+    margin-top: 50px;
+    padding: 50px;
+    
+}
+.lg img{
+    height: 100px;
+    width:100px ;
+    margin: auto;
+    margin-left: 50px;
+    color: white;
+    
+}
+.lg p{
+    color: white;
+}
+.menu6 h3{
+    text-align: center;
+    color: white;
+    border-left: 1px solid blue;
+text-align: left;
+margin-left: 60px;
+}
+.list1{
+    margin-left: 80px;
+    color: white;
+    list-style: none;
+}
+.ashik{
+    
+   
+
+}
